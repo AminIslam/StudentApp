@@ -8,6 +8,6 @@ namespace StudentLayerApp.MODEL
 {
     public class TestGit
     {
-
+        public string name;
     }
 }
